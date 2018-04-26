@@ -16,6 +16,7 @@ Voici la liste des projets aujourd'hui:
 
 
 > **Note:**
+>- N'oubliez pas de cloner l'autre projet concernant "Page statique"
 >- Bien lire les commentaires pour mieux comprendre
 >- Vérifier d'abord si la version de votre Rails est vieux (version inférieur à 5.x.x, **si c'est le cas, installer la version recommandée** (version 5.x.x) 
 >- Run `bundle install` dans le dossier du projet
