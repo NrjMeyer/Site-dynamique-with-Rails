@@ -1,0 +1,17 @@
+<div class="jumbotron jumbotron-fluid bg-light shadow">
+  <div class="container">
+    <h1 class="display-4">Bienvenue <%= @user.username%>!</h1>
+    <strong>Voici ta bio trop cool :</strong>
+    <hr>
+    <p>
+      <em class="lead">
+        "<%= @user.bio %>"
+      </em>
+    </p>
+    <p>
+      <a href="<%= home_path%>" class="btn btn-primary">Retour à l'accueil</a>
+    </p>
+
+
+  </div>
+</div>
