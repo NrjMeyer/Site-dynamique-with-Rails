@@ -9,9 +9,9 @@ Tout d'abord, lire le Readme.md jusqu'à la fin avant de corriger.***C'est très
 ## Projet du jour 
 **Bonjour les correcteurs !**
 
-Voici la liste des projets aujourd'hui.
+Voici la liste des projets aujourd'hui:
 
-- 01 - ***Page statique*** - 
+- 01 - ***Site avec backend*** - 
 
 
 
