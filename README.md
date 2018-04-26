@@ -1,7 +1,11 @@
 # Premier site avec Rails
 
 
+
+
  **Projet de en pair programing de Itokiana et Njaratina || sur slack: @itokiana, @meyer**
+
+
 
 
   ![picure](image.jpg)
